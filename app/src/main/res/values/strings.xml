@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="drawer_layout_demo">Drawer Layout Demo</string>
+    <string name="one">One</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="Four">Four</string>
+    <string name="Five">five</string>
+    <string name="six">Six</string>
+    <string name="Seven">Seven</string>
+
+    <string name="open">Open</string>
+
+    <string name="close"><Close></Close></string>
+
+</resources>

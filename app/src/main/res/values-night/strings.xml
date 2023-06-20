@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_layout_demo">Drawer Layout Demo</string>
+    <string name="one">One</string>
+    <string name="Two">Two</string>
+    <string name="Three">Three</string>
+    <string name="Four" />
+    <string name="Five" />
+    <string name="six" />
+    <string name="Seven">Seven</string>
+</resources>
