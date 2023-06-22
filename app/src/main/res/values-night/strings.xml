@@ -8,4 +8,14 @@
     <string name="Five" />
     <string name="six" />
     <string name="Seven">Seven</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_favourites">My Favourites</string>
+    <string name="about_community">About Community</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="terms_and_conditions"><![CDATA[Terms  & Conditions]]></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="logout">Logout</string>
+    <string name="list_your_company">List Your Company</string>
+    <string name="are_you_a_business_owner">Are you a business owner ?</string>
 </resources>

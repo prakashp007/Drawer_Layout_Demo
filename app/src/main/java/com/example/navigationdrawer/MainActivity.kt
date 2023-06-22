@@ -3,10 +3,12 @@ package com.example.navigationdrawer
 import android.app.Notification.Action
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Gravity
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
 import androidx.appcompat.app.ActionBarDrawerToggle
+import androidx.core.view.GravityCompat
 import androidx.drawerlayout.widget.DrawerLayout
 import com.google.android.material.navigation.NavigationView
 
@@ -27,6 +29,7 @@ class MainActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         navigationView.setNavigationItemSelectedListener {
+
             when(it.itemId){
                 R.id.mItemOne -> Toast.makeText(this, "One", Toast.LENGTH_SHORT).show()
                 R.id.mItemTwo -> Toast.makeText(this, "Two", Toast.LENGTH_SHORT).show()
